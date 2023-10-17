@@ -24,7 +24,6 @@ public class App extends BasicApp {
         super.start();
 
         { // todo - start the endpoint worker
-
         }
     }
 
